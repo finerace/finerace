@@ -162,7 +162,7 @@ My portfolio showcases practical experience in solving problems of various scale
 
 <p align="right">
   <img src="https://flagpedia.net/data/flags/w20/gb.png" width="20" alt="English">
-  <a href="https://github.com/finerace/finerace/edit/main/README.md#finerace-saveliy-grizan"> English Version</a>
+  <a href="https://github.com/FineRace#fineracerace-saveliy-grizan"> English Version</a>
   <a href="https://github.com/FineRace">
     <img src="https://i.postimg.cc/nzjMnxmF/mini-icon.png" width="30" alt="icon" align="left">
   </a>
