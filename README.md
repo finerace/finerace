@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">FineRace (Saveliy Grizan)</h1>
-<h3 align="center">Middle Unity Developer</h3>
+<h3 align="center">Unity Developer</h3>
 
 <p align="center">
   A Unity developer focused on creating clean, scalable architecture and implementing complex gameplay systems. I apply an engineering approach to development to build stable and maintainable products.
@@ -169,7 +169,7 @@ My portfolio showcases practical experience in solving problems of various scale
 </p>
 
 <h1 align="center">FineRace (Гризан Савелий)</h1>
-<h3 align="center">Middle Unity Developer</h3>
+<h3 align="center">Unity Developer</h3>
 
 <p align="center">
   Разработчик на Unity с фокусом на создании чистой, масштабируемой архитектуры и реализации сложных игровых систем. Практикую инженерный подход к разработке для создания стабильных и поддерживаемых продуктов.
