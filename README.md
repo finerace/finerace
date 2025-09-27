@@ -156,8 +156,6 @@ My portfolio showcases practical experience in solving problems of various scale
 </details>
 
 <br>
-<br>
-<br>
 
 <details>
 <summary>Русская Версия</summary>
