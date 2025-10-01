@@ -111,7 +111,7 @@ My portfolio showcases practical experience in solving problems of various scale
 
 *   🏃 **[Job Runner](https://finerace.itch.io/job-runner)**
     
-    A minimalist 2D platformer created solo for a game jam.
+    A minimalist 2D platformer for a game jam.
 
 ---
 #### Early Projects & Experiments
