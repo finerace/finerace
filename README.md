@@ -88,52 +88,30 @@ My portfolio showcases practical experience in solving problems of various scale
 *   📱 **[Artist's Simulator](https://github.com/FineRace/Artists-Simulator)**
     
     A mobile game released on Google Play, built on the principles of clean architecture. This project is a practical implementation of SOLID, DI, FSM, and asynchronous programming to create a maintainable and easily extendable product.
-    *   **Key Achievements:**
-        *   Developed a flexible data-driven architecture using **DI (Zenject)**, enabling game designers to configure content without programmer involvement.
-        *   Conducted a full refactoring of the shop UI module from a "God Object" to the **MVP** pattern, decomposing it into independent, testable components.
-        *   Implemented an asynchronous core with **UniTask** and **Addressables** to ensure a smooth, freeze-free application experience.
-        *   Used a custom **AOP plugin** to reduce boilerplate code (logging, exception handling) by approximately 60%.
 
 *   ✨ **[AOP Plugin for Unity](https://github.com/FineRace/MethodBoundaryAspect.Fody-for-Unity)**
     
     An open-source metaprogramming tool that enables an aspect-oriented approach in Unity for writing cleaner code.
-    *   **Key Achievements:**
-        *   Implemented **IL-code weaving** using Fody, allowing logic to be injected into methods at compile time with zero runtime overhead.
-        *   Solved the non-trivial challenge of compatibility with **asynchronous methods (UniTask)** and compiler-generated state machines, a common issue for AOP tools in Unity.
 
 ---
 #### Technical Projects & Shipped Games
 *   🔫 **[Ancelight FPS](https://github.com/FineRace/Ancelight-FPS-Project)**
 
     A complete framework for a classic FPS, created to deeply explore and implement interconnected gameplay systems from scratch.
-    *   **Key Achievements:**
-        *   Implemented a **"Save-Anywhere" system**, allowing the entire game world's state to be "frozen" and restored at any moment, including enemy positions, projectiles, and triggers.
-        *   Created **tactical AI with team interaction**: enemies alert allies and can perform predictive shooting.
-        *   Wrote an advanced **character controller** with action mechanics: a grappling hook on a `SpringJoint` and a dash system.
-        *   Developed a data-driven weapon system using `ScriptableObjects` and custom procedural recoil.
 
 *   🤖 **[Drift Tanks VS Zombies](https://github.com/FineRace/Tanks-Yandex-Games)**
 
     A WebGL game published on the Yandex.Games platform, with a focus on procedural generation and web platform integration.
-    *   **Key Achievements:**
-        *   Developed a multi-stage **procedural city generation algorithm** that creates unique maps from a single `seed`.
-        *   Implemented full integration with the **Yandex.Games SDK** (authentication, cloud saves, IAP, ads).
-        *   Created a custom **`Rigidbody`-based tank controller** with realistic suspension simulation, inertia, and drifting mechanics.
 
 ---
 #### Teamwork & Game Jam Experience
 *   🦊 **[Fox Factory](https://github.com/FineRace/FoxFactory) & Fox Town**
     
     A series of projects created under tight deadlines (72 hours) with the same team for game jams (Indie Varvar's Jam, VK Games).
-    *   **Key Achievements:**
-        *   Served as the **sole programmer** in both projects, successfully bringing the vision of game designers and artists to life.
-        *   Demonstrated stable and effective teamwork, rapid idea implementation, and the ability to adapt to different platform requirements.
 
 *   🏃 **[Job Runner](https://finerace.itch.io/job-runner)**
     
     A minimalist 2D platformer created solo for a game jam.
-    *   **Key Achievements:**
-        *   Practiced the rapid implementation and completion of a project from concept to a finished build within strict time constraints.
 
 ---
 #### Early Projects & Experiments
@@ -253,50 +231,30 @@ My portfolio showcases practical experience in solving problems of various scale
 *   📱 **[Artist's Simulator](https://github.com/FineRace/Artists-Simulator)**
     
     Выпущенная в Google Play мобильная игра, построенная на принципах чистой архитектуры. Проект является практической реализацией принципов SOLID, DI, FSM и асинхронного подхода для создания поддерживаемого и легко расширяемого продукта.
-    *   **Ключевые достижения:**
-        *   Разработана гибкая data-driven архитектура на базе **DI (Zenject)**, что позволило гейм-дизайнерам настраивать контент без участия программиста.
-        *   Проведен полный рефакторинг UI-модуля (магазин) по паттерну **MVP**, что декомпозировало "God Object" на независимые, тестируемые компоненты.
-        *   Внедрено асинхронное ядро на **UniTask** и **Addressables** для обеспечения плавной работы приложения без фризов.
-        *   Использован собственный **AOP-плагин** для сокращения boilerplate-кода (логирование, обработка исключений) примерно на 60%.
 
 *   ✨ **[AOP Plugin for Unity](https://github.com/FineRace/MethodBoundaryAspect.Fody-for-Unity)**
     
     Open-source инструмент для метапрограммирования, позволяющий применять аспектно-ориентированный подход в Unity для написания более чистого кода.
-    *   **Ключевые достижения:**
-        *   Реализована работа с **IL-кодом (weaving)** на базе Fody, позволяющая "вплетать" логику в методы на этапе компиляции без оверхеда в рантайме.
-        *   Решена нетривиальная задача совместимости с **асинхронными методами (UniTask)** и генерируемыми компилятором стейт-машинами, что является частой проблемой для AOP-инструментов в Unity.
 
 ---
 #### Технические проекты и опубликованные игры
 *   🔫 **[Ancelight FPS](https://github.com/FineRace/Ancelight-FPS-Project)**
 
     Полноценный фреймворк для классического FPS, созданный для глубокой проработки и реализации взаимосвязанных игровых систем с нуля.
-    *   **Ключевые достижения:**
-        *   Реализована **система сохранений "Save-Anywhere"**, позволяющая "заморозить" и восстановить состояние всего игрового мира в любой момент, включая положение врагов, пуль и триггеров.
-        *   Создан тактический **AI с командным взаимодействием**: враги оповещают союзников о тревоге и могут вести огонь на упреждение.
-        *   Написан продвинутый **контроллер персонажа** с action-механиками: крюк-кошка на `SpringJoint` и система рывков (dashes).
-        *   Разработана data-driven система оружия на `ScriptableObjects` и кастомная процедурная отдача.
 
 *   🤖 **[Drift Tanks VS Zombies](https://github.com/FineRace/Tanks-Yandex-Games)**
 
     WebGL-игра, опубликованная на платформе Яндекс.Игры, с фокусом на процедурной генерации и интеграции с веб-платформой.
-    *   **Ключевые достижения:**
-        *   Разработан многоэтапный **алгоритм процедурной генерации** городских уровней, создающий уникальные карты по одному `seed`.
-        *   Реализована полная интеграция с **Yandex.Games SDK** (авторизация, облачные сохранения, IAP, реклама).
-        *   Создан кастомный **`Rigidbody`-контроллер танка** с реалистичной симуляцией работы подвески, инерцией и механикой дрифта.
 
 ---
 #### Опыт командной работы и геймджемов
 *   🦊 **[Fox Factory](https://github.com/FineRace/FoxFactory) & Fox Town**
     
     Серия проектов, созданных в сжатые сроки (72 часа) в составе одной и той же команды для геймджемов (Indie Varvar's Jam, VK Игры).
-    *   **Ключевые достижения:**
-        *   Выступил в роли **единственного программиста** в обоих проектах, успешно реализуя видение гейм-дизайнеров и художников.
-        *   Демонстрация стабильной и эффективной командной работы, быстрой реализации идей и умения адаптироваться под требования разных платформ.
 
 *   🏃 **[Job Runner](https://finerace.itch.io/job-runner)**
     
-    Минималистичный 2D-платформер, созданный для геймджема в одиночку.
+    Минималистичный 2D-платформер, созданный для геймджема в рамках небольшой команды.
     *   **Ключевые достижения:**
         *   Практика в быстрой реализации и завершении проекта от идеи до готового билда в рамках жестких временных ограничений.
 
