@@ -95,11 +95,11 @@ My portfolio showcases practical experience in solving problems of various scale
 
 ---
 #### Technical Projects & Shipped Games
-*   🔫 **[Ancelight FPS](https://github.com/FineRace/Ancelight-FPS-Project)**
+*   🔫 **[Ancelight FPS](https://github.com/FineRace/Ancelight)**
 
     A complete framework for a classic FPS, created to deeply explore and implement interconnected gameplay systems from scratch.
 
-*   🤖 **[Drift Tanks VS Zombies](https://github.com/FineRace/Tanks-Yandex-Games)**
+*   🤖 **[Drift Tanks VS Zombies](https://github.com/finerace/Drift-Tanks-Vs-Zombies)**
 
     A WebGL game published on the Yandex.Games platform, with a focus on procedural generation and web platform integration.
 
@@ -238,11 +238,11 @@ My portfolio showcases practical experience in solving problems of various scale
 
 ---
 #### Технические проекты и опубликованные игры
-*   🔫 **[Ancelight FPS](https://github.com/FineRace/Ancelight-FPS-Project)**
+*   🔫 **[Ancelight FPS](https://github.com/FineRace/Ancelight)**
 
     Полноценный фреймворк для классического FPS, созданный для глубокой проработки и реализации взаимосвязанных игровых систем с нуля.
 
-*   🤖 **[Drift Tanks VS Zombies](https://github.com/FineRace/Tanks-Yandex-Games)**
+*   🤖 **[Drift Tanks VS Zombies](https://github.com/finerace/Drift-Tanks-Vs-Zombies)**
 
     WebGL-игра, опубликованная на платформе Яндекс.Игры, с фокусом на процедурной генерации и интеграции с веб-платформой.
 
